@@ -1,12 +1,10 @@
 Be Cognizant Home Page Header View  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Overview 
-
-This project automates the be Cognizant web application using various tools and frameworks. The goal is to ensure the application’s header functionality, stability, and reliability. 
-
-Features 
+Overview : This project automates the be Cognizant web application using various tools and frameworks. The goal is to ensure the application’s header functionality, stability, and reliability. 
 
 Test Frameworks Used: 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cucumber: For writing and executing BDD (Behavior-Driven Development) scenarios. 
 
