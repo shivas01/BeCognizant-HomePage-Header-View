@@ -15,9 +15,9 @@ TestNG: For test management and parallel execution.
 Apache POI: For reading and writing Excel files. 
 
 Extent Reports: For detailed test reporting. 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-Steps to Reproduce 
 
+Steps to Reproduce 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Navigate to be Cognizant home Page (https://cognizantonline.sharepoint.com/sites/Be.Cognizant/SitePages/Home.aspx) 
 
 Click on user profile and verify name and email of the user. 
